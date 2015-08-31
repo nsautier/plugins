@@ -47,6 +47,11 @@ angular
             PAGINATION_RESULTS: "Results",
             PAGINATION_TO: "to",
             PAGINATION_ON: "over",
-            PAGINATION_ELEMENTS: "elements"
+            PAGINATION_ELEMENTS: "elements",
+            LOGIN: "Connexion",
+            USER_PANEL: "Réglages Profil",
+            DISCONNECT: "Déconnexion",
+            SIGNIN: "Connexion",
+            SIGNUP: "S'enregistrer"
          });
    });
